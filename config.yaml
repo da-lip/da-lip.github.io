@@ -1,0 +1,9 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://da-lip.github.io"
+title: "Home of Da Lip's Mixxxx"
+...
