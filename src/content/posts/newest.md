@@ -1,7 +1,7 @@
 ---
-title: "Just another sample post"
+title: "Lip's Mix Vol 1"
 date: "2014-03-29"
-description: "This should be a more useful description"
+description: "A little pick me up for all you jive turkeys"
 categories: 
     - "hugo"
     - "fun"

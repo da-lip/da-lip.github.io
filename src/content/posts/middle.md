@@ -1,6 +1,6 @@
 ---
-title: "Second Post"
-description: "Welcome to the second blog post."
+title: "Lips Mix Vol 2"
+description: "Welcome to yout new blog!."
 date: "2014-03-28"
 categories: 
     - "template"
