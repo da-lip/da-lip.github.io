@@ -1,7 +1,7 @@
 ---
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
+contentdir: "src/content"
+layoutdir: "src/layouts"
+publishdir: "."
 indexes:
   category: "categories"
 baseurl: "http://da-lip.github.io"
