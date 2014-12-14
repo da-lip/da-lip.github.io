@@ -5,4 +5,4 @@
 4. deploy the changes 
     $ git add -A
     $ git commit -m '<insert commit message here>'
-    $ git push
+    $ git push 
